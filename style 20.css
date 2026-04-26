@@ -1,0 +1,40 @@
+.first-navbar{
+    box-shadow: 1px 1px 10px 5px rgb(160, 160,160);
+}
+.tm-section-title{
+    text-align: center;
+    color: lightskyblue;
+    font-weight: lighter;
+}
+.section-bg{
+    background-color: lightskyblue;
+    color: white;
+}
+.tm-title{
+    font-style: normal;
+    text-align: center;
+    color: lightskyblue;
+}
+.box-img{
+    width: 100%;
+}
+.my_form{
+    border: none;
+    border-bottom: 2px solid lightskyblue;
+    border-radius: 0%;
+    font-weight: lighter;
+}
+.my_area{
+    font-weight: lighter;
+    border-radius: 0%;
+}
+.my_but{
+    border-radius: 0%;
+    float: right;
+    width: 150px;
+    height: 50px;
+}
+.my_text{
+    text-align: center;
+    font-weight: lighter;
+}
